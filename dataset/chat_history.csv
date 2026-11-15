@@ -1,0 +1,5 @@
+timestamp,question,answer
+2026-11-14 23:41:39,what is ml ? in simple two points ?,"Here is a simple explanation of Machine Learning (ML) in two points:
+
+1. **Machine Learning is a branch of Artificial Intelligence**: It enables computers to learn patterns from data and use those patterns to make predictions or decisions.
+2. **Machine Learning allows computers to learn from data**: It uses a model that is produced after a learning algorithm is trained on data, enabling computers to make predictions or decisions based on what they've learned from the data."

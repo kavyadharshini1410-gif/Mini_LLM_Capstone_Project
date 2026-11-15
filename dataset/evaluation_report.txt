@@ -1,0 +1,30 @@
+CHATBOT EVALUATION REPORT
+===================================
+                   Metric  Value
+          Total Questions   20.0
+       Answered Questions   20.0
+     Unanswered Questions    0.0
+Average Answer Word Count   43.9
+
+Individual Answer Word Counts
+query_id  word_count
+    Q001          37
+    Q002          39
+    Q003          34
+    Q004          25
+    Q005          45
+    Q006          32
+    Q007          39
+    Q008          65
+    Q009          30
+    Q010          25
+    Q011          19
+    Q012          32
+    Q013          13
+    Q014           8
+    Q015          14
+    Q016         180
+    Q017          99
+    Q018          58
+    Q019          53
+    Q020          31

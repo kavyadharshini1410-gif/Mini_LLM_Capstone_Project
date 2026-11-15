@@ -1,0 +1,57 @@
+﻿query_id,question,answer
+Q001,What is Artificial Intelligence?,"According to the study notes, Artificial Intelligence (AI) is a field of computer science that develops systems able to perform tasks that normally require human intelligence, such as understanding language, recognizing images, solving problems, and making recommendations."
+Q002,What is Machine Learning?,Machine Learning is a branch of Artificial Intelligence that enables computers to learn patterns from data and use those patterns to make predictions or decisions. A model is the result produced after a learning algorithm is trained on data.
+Q003,How is Machine Learning related to Artificial Intelligence?,"Machine Learning is a subfield of Artificial Intelligence. In other words, Machine Learning is a way for systems to learn patterns from data, and it is part of the broader field of Artificial Intelligence."
+Q004,What is Deep Learning?,"According to the study notes, Deep Learning is a type of Machine Learning that uses multi-layer neural networks. It is a subfield of Machine Learning."
+Q005,What are the basic steps in the Machine Learning workflow?,"The basic steps in the Machine Learning workflow are not explicitly stated in the provided context. The context only mentions the types of Machine Learning (Supervised, Unsupervised, and Reinforcement Learning) and provides a brief overview of the purpose and topics covered in the study notes."
+Q006,What is Supervised Learning?,Supervised Learning is a type of Machine Learning that uses labelled examples. Each training example contains input data and the correct output. The model learns to predict the output for new inputs.
+Q007,What is labelled data?,"Labelled data is a dataset where each data point has a corresponding ""label"" or ""target answer"" that is known in advance. In other words, it is data that has been annotated or tagged with the correct answer or classification."
+Q008,What is Classification?,"Classification is a type of task in machine learning where the goal is to assign a label or category to a piece of data. In other words, it's a way to group data into a chosen number of clusters or classes, based on their characteristics. For example, in customer data, classification might be used to group customers into different segments based on their buying behavior."
+Q009,What is Regression?,"Regression is a type of task that involves predicting numerical values. It is a method used to learn patterns from data, and it is commonly used for predicting numerical values."
+Q010,What is Unsupervised Learning?,Unsupervised Learning is a type of Machine Learning that uses data without supplied answer labels. The algorithm looks for structure or patterns in the data.
+Q011,What is Clustering?,Clustering is a type of machine learning algorithm that groups similar data points into a chosen number of clusters.
+Q012,What is Reinforcement Learning?,Reinforcement Learning is a type of learning where an agent takes actions in an environment and receives rewards or penalties. The agent learns a strategy to maximize its total reward over time.
+Q013,What is a Machine Learning algorithm?,A Machine Learning algorithm is a method used to learn patterns from data.
+Q014,What is Linear Regression used for?,Linear Regression is used for predicting numerical values.
+Q015,What is Logistic Regression used for?,"Logistic Regression is used for binary classification tasks, such as predicting yes/no or 0/1."
+Q016,How does a Decision Tree work?,"A Decision Tree is a type of algorithm that works by using a sequence of questions or conditions to reach a prediction. It's like a flowchart that helps the algorithm make decisions based on the data. Here's a simple explanation:
+
+Imagine you're trying to predict whether someone will buy a product based on their age and income. A Decision Tree would work by asking questions like:
+
+* Is the person under 30?
+* Is their income above $50,000?
+
+Based on the answers to these questions, the algorithm would make a prediction, such as ""yes"" or ""no"". The tree would then branch out into different paths, each representing a different possible outcome. The algorithm would continue to ask questions and make predictions until it reaches a final decision.
+
+For example, if the person is under 30 and their income is above $50,000, the algorithm might predict that they will buy the product. But if they're over 30 and their income is below $50,000, the algorithm might predict that they won't buy the product.
+
+That's the basic idea behind a Decision Tree!"
+Q017,What are the real-world applications of Machine Learning?,"Machine Learning has many real-world applications, including:
+
+1. Education: Recommending learning resources or identifying topics where a learner needs more practice.
+2. Healthcare: Analyzing medical images or estimating health risks (but a qualified professional must make clinical decisions).
+3. Finance: Detecting unusual transactions or estimating credit risk.
+4. Agriculture: Analyzing crop or weather data to support irrigation and yield planning.
+5. Transport: Estimating traffic conditions and supporting route planning.
+6. Retail: Recommending products and forecasting demand.
+7. Customer Support: Helping customers with their queries and issues.
+
+These applications demonstrate the versatility and potential of Machine Learning in various fields."
+Q018,What are the advantages of Machine Learning?,"The advantages of Machine Learning are:
+
+1. Pattern discovery: can find relationships in large datasets.
+2. Automation: can automate repeated prediction or classification tasks.
+3. Personalisation: can adapt recommendations to user needs.
+4. Improvement with data: models can be retrained as relevant new data becomes available.
+5. Consistency: a deployed model can apply the same learned process repeatedly."
+Q019,What are the limitations of Machine Learning?,"The limitations of Machine Learning are:
+
+1. Data quality: incorrect, incomplete, or unrepresentative data can lead to poor results.
+2. Bias: patterns in historical data may produce unfair outcomes.
+3. Overfitting: a model may memorise training examples and perform poorly on new data.
+4. Limited explanation: some complex models are difficult to interpret."
+Q020,What are the common Machine Learning evaluation terms?,"The common Machine Learning evaluation terms are:
+
+1. Training data: Examples used to teach the model.
+2. Testing data: Separate examples used to check how well the model generalises.
+3. Accuracy:"
